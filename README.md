@@ -14,7 +14,6 @@ Um pequeno gafanhoto aprendendo ciência de base 💻
 
 Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
 
- Qual o plano para amanhã ? Dominar o mundo
 
 ##  Estou estudando
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
