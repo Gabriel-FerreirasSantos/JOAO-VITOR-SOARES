@@ -1,5 +1,5 @@
  # João Vitor 
-### hello world 👨‍💻
+### hello world👋
 <a/>
 <a href="https://www.facebook.com/profile.php?id=100013790748118" target="_blank">
 <img aling="center" alt="joao facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
@@ -10,12 +10,12 @@ style="max-widht:100%;"<a/>
 style="max-widht:100%;"<a/>
 <a/>
  
-Um pequeno gafanhoto aprendendo ciência de base 💻
+Um pequeno gafanhoto aprendendo ciência de base 👨‍💻
 
-Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema. 😊
 
 
-##  Estou estudando
+##  Estou estudando 📓
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
  
 ## minhas habilidades
@@ -25,4 +25,4 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-VITOR-SOARES&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-VITOR-SOARES&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
