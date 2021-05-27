@@ -12,7 +12,9 @@ style="max-widht:100%;"<a/>
  
 Um pequeno gafanhoto aprendendo ciência de base 💻
 
-Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que os fracassos talentosos. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos. 😊 
+Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.
+
+ Qual o plano para amanhã ? Dominar o mundo
 
 ##  Estou estudando
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="40" width="40" height="40" style="max - width:100%;"></img>
